@@ -59,7 +59,7 @@ jobs:
 ```
 
 For all available options please see
-module [configuration file](https://github.com/netdata/go.d.plugin/blob/master/config/go.d/erigon.conf).
+module [configuration file](https://github.com/belane/erigon-netdata-plugin/blob/dev/config/go.d/erigon.conf).
 
 ## Troubleshooting
 
