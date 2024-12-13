@@ -37,8 +37,6 @@ require (
 )
 
 require (
-	cloud.google.com/go/compute v1.19.1 // indirect
-	cloud.google.com/go/compute/metadata v0.2.3 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bgentry/speakeasy v0.1.0 // indirect
 	github.com/census-instrumentation/opencensus-proto v0.4.1 // indirect
@@ -52,7 +50,7 @@ require (
 	github.com/dgryski/go-metro v0.0.0-20180109044635-280f6062b5bc // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/dustin/go-humanize v1.0.0 // indirect
-	github.com/envoyproxy/go-control-plane v0.11.1-0.20230524094728-9239064ad72f // indirect
+	github.com/envoyproxy/go-control-plane v0.10.3 // indirect
 	github.com/envoyproxy/protoc-gen-validate v0.10.1 // indirect
 	github.com/form3tech-oss/jwt-go v3.2.3+incompatible // indirect
 	github.com/fullstorydev/grpcurl v1.8.1 // indirect
@@ -124,9 +122,9 @@ require (
 	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
-	google.golang.org/grpc v1.56.3 // indirect
-	google.golang.org/protobuf v1.30.0 // indirect
+	google.golang.org/genproto v0.0.0-20220822174746-9e6da59bd2fc // indirect
+	google.golang.org/grpc v1.52.0-dev // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/cheggaaa/pb.v1 v1.0.28 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
